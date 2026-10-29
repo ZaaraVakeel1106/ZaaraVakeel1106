@@ -93,7 +93,7 @@ My goal is to keep growing as a developer who can connect software engineering, 
 
 ## Featured Projects
 
-### 🔬 ResearchX — Research Discovery & Exploration
+### ResearchX — Research Discovery & Exploration
 
 A project focused on making academic research information easier to explore and work with.
 
@@ -101,7 +101,7 @@ A project focused on making academic research information easier to explore and 
 
 [View ResearchX on GitHub →](https://github.com/ZaaraVakeel1106/ResearchX)
 
-### 🍳 OperAI — AI-Powered Kitchen Operations
+### OperAI — AI-Powered Kitchen Operations
 
 An AI-powered kitchen operations co-pilot designed to support cloud kitchen workflows, order management, and operational decision-making.
 
@@ -109,7 +109,7 @@ An AI-powered kitchen operations co-pilot designed to support cloud kitchen work
 
 [View OperAI on GitHub →](https://github.com/ZaaraVakeel1106/OperAI)
 
-### 🚆 RailRescue MAS — Multi-Agent Systems
+### RailRescue MAS — Multi-Agent Systems
 
 A project exploring railway-related problem-solving through a multi-agent systems approach.
 
@@ -117,7 +117,7 @@ A project exploring railway-related problem-solving through a multi-agent system
 
 [Explore my repositories →](https://github.com/ZaaraVakeel1106?tab=repositories)
 
-### 💡 More Projects
+### More Projects
 
 My other project work and experiments span placement coordination, debate platforms, collection management systems, research graphs, and AI-assisted document verification.
 
