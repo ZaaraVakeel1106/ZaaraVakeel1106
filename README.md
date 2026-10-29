@@ -33,11 +33,11 @@ I'm exploring three areas of technology that excite me: building applications th
 
 I enjoy learning through hands-on projects, collaborating with others, and strengthening my foundations in programming and problem-solving.
 
-- 🌐 **Web Development:** Learning to build functional, user-friendly applications.
-- 📊 **Data Analytics:** Exploring data manipulation, visualization, and insight generation.
-- 🤖 **AI/ML:** Learning machine learning concepts and developing AI-powered applications.
-- 💻 **Problem Solving:** Practicing data structures, algorithms, and programming fundamentals.
-- 🚀 **Project Building:** Turning ideas into working implementations and learning from the process.
+-  **Web Development:** Learning to build functional, user-friendly applications.
+-  **Data Analytics:** Exploring data manipulation, visualization, and insight generation.
+-  **AI/ML:** Learning machine learning concepts and developing AI-powered applications.
+-  **Problem Solving:** Practicing data structures, algorithms, and programming fundamentals.
+-  **Project Building:** Turning ideas into working implementations and learning from the process.
 
 My goal is to keep growing as a developer who can connect software engineering, data, and AI to solve meaningful problems.
 
